@@ -1,0 +1,537 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MS-Subscriber Subscribe to news\n"
+"POT-Creation-Date: 2019-04-07 00:30+0500\n"
+"PO-Revision-Date: 2019-04-07 00:34+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ms-subscriber.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classess/Ajax.php:62
+msgid "Newsletter from the site"
+msgstr "Новостная рассылка с сайта"
+
+#: classess/Ajax.php:92
+msgid "Page id is required"
+msgstr "Поле \"id страницы\" - обязательно для заполнения"
+
+#: classess/Main.php:162
+msgid "Be the first to know"
+msgstr "Будьте в курсе"
+
+#: classess/Main.php:164
+msgid ""
+"An email has been sent to you with a link to confirm your email. Follow the "
+"link in the letter to receive the newsletter."
+msgstr ""
+"Вам отправлено письмо со ссылкой для потдверждения Вашей почты. Пройдите по "
+"ссылке в письме, чтобы получать новостную рассылку."
+
+#: classess/Main.php:165
+msgid "close"
+msgstr "закрыть"
+
+#: classess/Main.php:186
+msgid "Your e-mail"
+msgstr "Ваш e-mail"
+
+#: classess/Main.php:187
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: classess/Main.php:188
+msgid "Subscribe to news"
+msgstr "Подписаться на новости"
+
+#: classess/Main.php:189
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+#: classess/Main.php:190
+msgid "finded"
+msgstr "найдено"
+
+#: classess/Main.php:191
+msgid "Success"
+msgstr "Успешно"
+
+#: classess/Main.php:192
+msgid ""
+"You must enter page id or find and choose page by title before save. Page id "
+"is required"
+msgstr ""
+"Вы должны ввести идентификатор страницы или найти страницу по заголовку и "
+"выбрать перед сохранением. Идентификатор страницы - обязательный параметр"
+
+#: classess/Main.php:193
+msgid "choose one"
+msgstr "Выберите"
+
+#: classess/Main.php:194
+msgid "This functionality will be available in future releases."
+msgstr "Функционал будет доступен в следующих релизах."
+
+#: classess/Main.php:195
+msgid "Free version"
+msgstr ""
+
+#: classess/Main.php:196
+msgid "An email has been sent to"
+msgstr "На"
+
+#: classess/Main.php:197
+msgid "Follow the link in email to subscribe to the newsletter."
+msgstr ""
+"было отправлено письмо. Пройдите по ссылке в письме, чтобы подтвердить почту."
+
+#: classess/Main.php:198
+msgid "Congratulations! Subscription successful!"
+msgstr "Подписка успешно оформлена!"
+
+#: classess/Main.php:199
+msgid "You have successfully unsubscribed from the newsletter."
+msgstr "Вы успешно отписались от новостной рассылки."
+
+#: classess/Main.php:200
+msgid "Error"
+msgstr "Ошибка"
+
+#: classess/Main.php:201
+msgid ""
+"No visual editor found. Try to refresh the page. If this does not help, "
+"please contact the plugin support."
+msgstr ""
+"Не найден визуальный редактор. Попробуйте обновить страницу. Если это не "
+"помогает, пожалуйста обратитесь в поддержку плагина."
+
+#: classess/Main.php:202
+msgid "Enter the text of the letter"
+msgstr "Enter the text of the letter"
+
+#: classess/Main.php:203
+msgid "What action to perform"
+msgstr "Какое действие выполнить"
+
+#: classess/Main.php:204
+msgid "Letter to subscribers"
+msgstr "Письмо подписчикам"
+
+#: classess/Main.php:205
+msgid "Sample letter to administrator"
+msgstr "Образец письма на адрес администратора"
+
+#: classess/Main.php:206
+msgid "The functionality is available in the paid version"
+msgstr "Функционал доступен в платной версии"
+
+#: classess/Main.php:207 templates/admin-page.php:247
+#: templates/admin-page.php:281
+msgid "Get upgrade"
+msgstr "Перейти на премиум версию"
+
+#: classess/Main.php:208
+msgid "Check the correctness of the entered data"
+msgstr "Проверьте правильность введенных данных"
+
+#: classess/Main.php:209
+msgid "duplicates have been removed"
+msgstr "дубликаты были удалены"
+
+#: classess/Main.php:210
+msgid "Leave the page? Changes made will not be saved."
+msgstr "Покинуть страницу? Внесенные изменения не будут сохранены."
+
+#: classess/Main.php:211
+msgid "Enter template name"
+msgstr "Введите название шаблона"
+
+#: classess/Main.php:212
+msgid "Yes"
+msgstr ""
+
+#: classess/Main.php:213
+msgid "No"
+msgstr ""
+
+#: classess/Main.php:214
+msgid "Save"
+msgstr ""
+
+#: classess/Main.php:215
+msgid "Template exist. Replace?"
+msgstr "Шаблон с таким именем уже существует. Заменить?"
+
+#: classess/Main.php:216
+msgid "Replace content?"
+msgstr "Очистить содержимое редактора?"
+
+#: classess/Main.php:347
+msgid "Change mail server for newsletter"
+msgstr "Изменён почтовый сервер для рассылки новостей"
+
+#: classess/Main.php:348 classess/Main.php:541
+msgid "Hello"
+msgstr "Здравствуйте"
+
+#: classess/Main.php:349
+msgid "The site"
+msgstr "На сайте"
+
+#: classess/Main.php:349
+msgid ""
+" has been changed SMTP settings for the MS-Subscriber plugin. Now the "
+"mailing will be from the address "
+msgstr ""
+" была произведена смена настроек SMTP для плагина MS-Subscriber. Теперь "
+"рассылка будет проводиться с адреса "
+
+#: classess/Main.php:349
+msgid "If you are reading this message, then everything is set up correctly."
+msgstr "Если Вы читаете это сообщение, значит всё настроено правильно."
+
+#: classess/Main.php:540
+msgid "Subscribe to news confirmation"
+msgstr "Подтверждение подписки на новости"
+
+#: classess/Main.php:542
+msgid "You or someone else indicated your e-mail to subscribe to the news site"
+msgstr ""
+"Вы или кто-то другой указал этот адрес электронной почты, чтобы подписаться "
+"на новости на сайте"
+
+#: classess/Main.php:544
+msgid "To confirm the subscription to the news, follow the link:"
+msgstr "Чтобы подтвердить подписку на новости, перейдите по ссылке:"
+
+#: classess/Main.php:555
+msgid "If it was not you, then just ignore this letter."
+msgstr "Если это были не Вы, то просто проигнорируйте это письмо."
+
+#: classess/Main.php:569
+msgid "If you no longer want to receive news from our website, click"
+msgstr "Если Вы больше не хотите получать новости с нашего сайта, нажмите"
+
+#: classess/Main.php:571
+msgid "here"
+msgstr "сюда"
+
+#: classess/Main.php:621
+msgid "Active"
+msgstr "Активен"
+
+#: classess/Main.php:623
+msgid "Non active"
+msgstr "Не активен"
+
+#: classess/Main.php:634
+msgid "No templates found"
+msgstr "Сохраненные шаблоны не найдены."
+
+#: classess/Main.php:636
+msgid "You can select template"
+msgstr "Вы можете выбрать шаблон"
+
+#: ms-subscriber.php:84
+msgid "MS-Subscriber to news"
+msgstr "MS-Subscriber - подписка на новости"
+
+#: templates/admin-page.php:9
+msgid "Settings"
+msgstr "Настройки"
+
+#: templates/admin-page.php:16
+msgid "Primary"
+msgstr "Основное"
+
+#: templates/admin-page.php:32
+msgid "Run newsletter"
+msgstr "Выполнить рассылку"
+
+#: templates/admin-page.php:44
+msgid ""
+"Recommended for installing the TinyMCE Advanced plugin. It allows you to "
+"edit content, while setting a lot of settings, including font size in "
+"paragraphs, text color, background color, etc."
+msgstr ""
+"Рекомендуемый для установки плагин TinyMCE Advanced. Он позволяет "
+"редактировать контент, задавая при этом множество настроек, в том числе "
+"размер шрифта в пунктах, цвет текста, цвет фона и др."
+
+#: templates/admin-page.php:47
+msgid "Install TinyMCE"
+msgstr "Установить TinyMCE"
+
+#: templates/admin-page.php:64
+msgid "Save as template"
+msgstr "Сохранить как шаблон"
+
+#: templates/admin-page.php:65
+msgid "You must turn off and turn on again a plugin, to use this functionality"
+msgstr ""
+"* Вам нужно выключить и включить плагин снова, чтобы этот функционал "
+"заработал."
+
+#: templates/admin-page.php:69
+msgid "Send"
+msgstr "Отправить"
+
+#: templates/admin-page.php:83
+msgid "The way to send letters"
+msgstr "Способ отправки писем"
+
+#: templates/admin-page.php:95
+msgid "Use"
+msgstr "Использовать"
+
+#: templates/admin-page.php:97
+msgid "Send letters using your mailbox (tested on mail servers"
+msgstr ""
+"Отправлять письма используя Ваш почтовый ящик (тестировалось на почтовых "
+"серверах"
+
+#: templates/admin-page.php:103
+#, fuzzy
+#| msgid "mail for the domain is also suitable\n"
+msgid "mail for the domain is also suitable"
+msgstr "подходит также почта для домена\n"
+
+#: templates/admin-page.php:109 templates/admin-page.php:115
+msgid "Enter Email"
+msgstr "Введите Email"
+
+#: templates/admin-page.php:118
+#, fuzzy
+#| msgid "Select the server where the mailbox is located\n"
+msgid "Select the server where the mailbox is located"
+msgstr "Выберите сервер на котором располагается почтовый ящик\n"
+
+#: templates/admin-page.php:122
+msgid "Choose server"
+msgstr "Выберите сервер"
+
+#: templates/admin-page.php:154
+msgid "Other"
+msgstr "Другой"
+
+#: templates/admin-page.php:158
+msgid "Specify the server"
+msgstr "Укажите сервер"
+
+#: templates/admin-page.php:164 templates/admin-page.php:170
+msgid "For example, smtp.yandex.ru"
+msgstr "Например, smtp.yandex.ru"
+
+#: templates/admin-page.php:173
+msgid "Specify the port"
+msgstr "Укажите порт"
+
+#: templates/admin-page.php:179 templates/admin-page.php:185
+msgid "For example, 465"
+msgstr "Например, 465"
+
+#: templates/admin-page.php:195 templates/admin-page.php:201
+msgid "Password"
+msgstr "Пароль"
+
+#: templates/admin-page.php:209
+msgid "Save SMTP Settings"
+msgstr "Сохранить настройки SMTP"
+
+#: templates/admin-page.php:215
+msgid "An email was sent to the site administrator's mailbox."
+msgstr "На ящик администратора сайта отправлено письмо с электронной почты."
+
+#: templates/admin-page.php:217
+msgid ""
+"for check. If the letter was not delivered, check the correctness of the "
+"specified data or try to specify another mail."
+msgstr ""
+"для проверки. Если письмо не было доставлено, проверьте правильность "
+"указанных данных или попробуйте указать другую почту."
+
+#: templates/admin-page.php:233
+msgid "Widget output"
+msgstr "Настройки виджета"
+
+#: templates/admin-page.php:240
+msgid "Use simple form, calling by shortcode"
+msgstr "Использовать простую форму. Вывод через шорткод."
+
+#: templates/admin-page.php:246 templates/admin-page.php:280
+msgid "This functionality available in premium version. It cost"
+msgstr "Функционал доступен в премиум версии за"
+
+#: templates/admin-page.php:246 templates/admin-page.php:280
+msgid "RUB"
+msgstr "руб."
+
+#: templates/admin-page.php:252
+msgid "Choose widget color"
+msgstr "Выберите цвет виджета"
+
+#: templates/admin-page.php:253
+msgid "Minimized background"
+msgstr "Цвет фона в свёрнутом виде"
+
+#: templates/admin-page.php:255
+msgid "Minimized text color"
+msgstr "Цвет текста в свёрнутом виде"
+
+#: templates/admin-page.php:257
+msgid "Maximized background"
+msgstr "Цвет фона в развёрнутом виде"
+
+#: templates/admin-page.php:259
+msgid "Maximized text color"
+msgstr "Цвет текста в развёрнутом виде"
+
+#: templates/admin-page.php:262
+msgid "Maximized button background"
+msgstr "Цвет кнопки в развёрнутом виде"
+
+#: templates/admin-page.php:264
+msgid "Maximized button text color"
+msgstr "Цвет текста кнопки в развёрнутом виде"
+
+#: templates/admin-page.php:286
+msgid "By default widget is shown on all pages"
+msgstr "По умолчанию виджет отображается на всех страницах"
+
+#: templates/admin-page.php:292
+msgid "Show widget on the same page"
+msgstr "Показать виджет на конкретной странице"
+
+#: templates/admin-page.php:300
+msgid "Enter page id"
+msgstr "Введите ID страницы"
+
+#: templates/admin-page.php:301
+msgid ""
+"You can specify multiple id's, separated by commas. For example: 12, 151, 214"
+msgstr "Можно указать несколько id через запятую. Например: 12, 151, 214"
+
+#: templates/admin-page.php:308
+msgid "OR"
+msgstr "ИЛИ"
+
+#: templates/admin-page.php:309
+msgid "Start typing the page title"
+msgstr "Начните вводить название страницы"
+
+#: templates/admin-page.php:319
+msgid "Save output"
+msgstr "Сохранить настройки отображения"
+
+#: templates/admin-page.php:335
+msgid "Subscribers"
+msgstr "Подписчики"
+
+#: templates/main.php:12
+msgid "List of all plugins"
+msgstr "Список всех плагинов"
+
+#: templates/main.php:19
+msgid "MS-Reviews"
+msgstr "MS-Reviews - отзывы"
+
+#: templates/main.php:20
+msgid ""
+"Allows you to set reviews on any page via shortcode. It will be useful to "
+"those who want to get reviews customers about the site."
+msgstr ""
+"Позволяет установить отзывы на любую старницу с помощью шорткода. Будет "
+"полезен тем кто хочет получить отзывы клиентов о сайте."
+
+#: templates/main.php:26 templates/main.php:52 templates/main.php:78
+msgid "View"
+msgstr "Перейти"
+
+#: templates/main.php:30 templates/main.php:56 templates/main.php:83
+msgid "Install"
+msgstr "Установить"
+
+#: templates/main.php:35 templates/main.php:61 templates/main.php:88
+msgid "Activate"
+msgstr "Активировать"
+
+#: templates/main.php:46
+msgid ""
+"It is easy to add JS code without editing any files, directly through the "
+"admin area. You can quickly add metrics counters, Google-Analitycs or "
+"callback scripts and more. And most importantly, that when you upgrade "
+"nothing will be lost."
+msgstr ""
+"Легко добавить JS код не редактируя никакие файлы, прямо через админку. "
+"Можно быстро добавить счётчики Метрики, Google-Analitycs или скрипты "
+"обратных звонков и другое. А главное, что при обновлении ничего не пропадёт."
+
+#: templates/main.php:72
+msgid ""
+"Places on any page or all widget with a subscription form for news. From the "
+"admin page, you can send out to all subscribers. SMTP support (yandex, "
+"gmail, etc.) Editing a letter using the standard WordPress editor"
+msgstr ""
+"Помещает на любую страницу или на все виджет с формой подписки на новости. "
+"Со страницы админки, можно выполнить рассылку всем подписчикам. Поддержка "
+"SMTP (yandex, gmail, и др.) Редактирование письма через стандартный редактор "
+"WordPress"
+
+#. Plugin Name of the plugin/theme
+msgid "MS-Subscriber Subscribe to news"
+msgstr "MS-Subscriber - Подписаться на новости"
+
+#. Description of the plugin/theme
+msgid ""
+"Places on all pages (or selected) widget with a form to subscribe to the "
+"newsletter. The widget can be minimized. Supports sending messages via SMTP "
+"(this option is guaranteed to deliver letters to your recipients). Remembers "
+"the form view. That is, if the user minimized the widget, it will be "
+"minimized until the user opens it himself. Therefore, it will not interfere "
+"with your visitors. This plugin stores information about your clients in the "
+"database of your site, and does not transfer it to anyone, unlike many third-"
+"party services."
+msgstr ""
+"Размещает на всех страницах (или на выбранных) виджет с формой для подписки "
+"на рассылку новостей. Виджет может минимизироваться. Поддерживает отправку "
+"сообщений через SMTP (эта опция гарантированно доставит письма вашим "
+"получателям). Запоминает вид формы. То есть, если пользователь свернул "
+"виджет, он будет находится свернутым, пока пользователь сам его не откроет. "
+"Поэтому не будет мешать Вашим посетителям.\n"
+"Данный плагин хранит информацию о Ваших клиентах в базе данных Вашего сайта, "
+"и не передаёт её никому, в отличии от многих сторонних сервисов"
+
+#. Author of the plugin/theme
+msgid "Mixail Sayapin"
+msgstr "Михаил Саяпин"
+
+#. Author URI of the plugin/theme
+msgid "https://ms-web.ru/"
+msgstr "https://ms-web.ru/"
+
+#~ msgid ""
+#~ "Places on all pages (or selected) widget with a form to subscribe to the "
+#~ "newsletter. The widget can be minimized. Supports sending messages via "
+#~ "SMTP (this option is guaranteed to deliver letters to your recipients)"
+#~ msgstr ""
+#~ "Размещает на всех страницах (или на выбранных) виджет с формой для "
+#~ "подписки на рассылку новостей. Виджет может минимизироваться. "
+#~ "Поддерживает отправку сообщений через SMTP (эта опция гарантированно "
+#~ "доставит письма вашим получателям)"
+
+#~ msgid "use shortcode [ms_subscriber]"
+#~ msgstr "используйте шорткод"
